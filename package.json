@@ -2,6 +2,12 @@
     "name": "cold-steel",
     "displayName": "Cold Steel",
     "description": "A dark color theme with a blue-gray background",
+    "icon": "icon.png",
+    "publisher": "dev-mdean",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/dev-mdean/Cold-Steel"
+    },
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.50.0"
