@@ -1,11 +1,13 @@
 # Change Log
 
-All notable changes to the "cold-steel" extension will be documented in this file.
+## [0.0.3] 10/26/2020
 
-## 0.0.2
+- Organizes repo
+
+## [0.0.2] 10/26/2020
 
 - Updates icon
 
-## 0.0.1
+## [0.0.1] 10/26/2020
 
 - Initial release
