@@ -1,0 +1,21 @@
+{
+    "name": "cold-steel",
+    "displayName": "Cold Steel",
+    "description": "A dark color theme with a blue-gray background",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.50.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cold Steel",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Cold-Steel-color-theme.json"
+            }
+        ]
+    }
+}
